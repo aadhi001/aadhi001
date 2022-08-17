@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aadhithyan Pandian.
 - 👀 I’m currently looking for a developer role in a startup.
-- 🌱 My skills: Python, Java, SQL
-- 🎈 I am currently learning: Web Development
+- 🌱 My skills: Java, Spring Boot, SQL, Docker, etc.,
+- 🎈 I am currently learning: Backend Development
 - 📫 If you want to colloborate or reach me, send a mail to aadhithyanpandian@gmail.com!
 
 <!---
