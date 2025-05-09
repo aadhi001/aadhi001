@@ -46,7 +46,6 @@ Welcome to my GitHub profile! I'm a passionate software developer currently purs
 
 ## 📫 Let’s Connect!
 Feel free to reach out if you'd like to collaborate or chat about CV, AI, or backend systems:
-- 📧 aadhithyanpandian@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aadhi001/)  
 
 Let’s build something amazing together 🚀
