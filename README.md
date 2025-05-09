@@ -1,5 +1,5 @@
 # Hi there, I'm Aadhithyan Pandian! 👋  
-#### AI Enthusiast | Computer Vision Learner | Java & Python Backend Developer
+#### AI Enthusiast | Computer Vision | Java & Python Backend Developer
 
 Welcome to my GitHub profile! I'm a passionate software developer currently pursuing my M.Sc. in Artificial Intelligence at BTU Cottbus, Germany. I have a strong foundation in backend development using Java, Spring Boot, and Python—and now I'm on a mission to **master computer vision** and contribute to impactful AI projects.
 
