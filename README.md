@@ -1,39 +1,52 @@
-# Hi there, I'm Aadhithyan Pandian! 👋
-#### Software Developer | Java | Spring Boot | SQL | Docker
+# Hi there, I'm Aadhithyan Pandian! 👋  
+#### AI Enthusiast | Computer Vision Learner | Java & Python Backend Developer
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on backend development. I enjoy working on projects that involve Java, Spring Boot, SQL, Docker, and more. Currently, I'm actively seeking a developer role in a startup where I can contribute my skills and collaborate on exciting projects.
+Welcome to my GitHub profile! I'm a passionate software developer currently pursuing my M.Sc. in Artificial Intelligence at BTU Cottbus, Germany. I have a strong foundation in backend development using Java, Spring Boot, and Python—and now I'm on a mission to **master computer vision** and contribute to impactful AI projects.
 
-## 🔭 Skills
-- **Programming Languages**: Java, Python
-- **Frameworks**: Spring Boot, Play Framework
-- **Databases**: SQL, Postgres, MongoDB
-- **Tools**: Docker, Git
-- **Other**: RESTful APIs, Object-Oriented Design, Software Development Life Cycle, Agile Methodologies
+---
 
-## 🌱 Currently Learning
-I am currently diving deeper into backend development and exploring new technologies and frameworks to enhance my skills and knowledge.
+## 🔧 Skills & Tools
+- **Languages**: Java, Python  
+- **Frameworks**: Spring Boot, Play Framework, PyTorch, TensorFlow  
+- **Databases**: PostgreSQL, MongoDB, SQL  
+- **DevOps & Tools**: Docker, Git, REST APIs  
+- **Core Concepts**: OOP, Microservices, Computer Vision, Neural Networks, Agile Development
 
-## 💼 Experience
-- **Back End Developer at Monkeycap.com (ARKA Insurance Broking Pvt. Ltd)**
-  - *Duration: 09/2022 - Present*
-  - *Chennai, Tamil Nadu, India*
-  - Working on the backend of monkeycap.com, an insurance brokerage site.
-  - Involved in the integration of multiple insurance vendors into the platform using Java Play Framework, RESTful APIs, Mongo, etc., ensuring smooth interactions and seamless functionality. Increased the number of vendors on the site.
-  - Contributed to the development of robust CKYC (Central Know Your Customer) verification flows within the website.
-  - Actively engaged in code reviews, debugging, and troubleshooting to maintain a stable codebase, following industry best practices and coding standards.
-  - **Skills**: Java 8, Java Play, Spring Boot, Microservices, Git, MongoDB, etc.
+---
 
-- **Backend Developer Intern at Rocketlane**
-  - *Duration: 02/2022 - 07/2022*
-  - *Chennai, Tamil Nadu, India*
-  - Served as a Java Backend Developer Intern at Rocketlane, actively contributing to various backend projects with a focus on enhancing functionality and performance.
-  - Designed and implemented API contracts from scratch, including bulk task and bulk sub-tasks APIs, to enable efficient and streamlined data processing.
-  - Developed audit logs feature for projects, ensuring comprehensive tracking and accountability throughout the system.
+## 🚀 Current Focus
+- Building a **public GitHub roadmap** to master computer vision: from classical image processing to deep learning and modern transformers.
+- Developing portfolio projects that combine my backend experience with AI capabilities.
+- Participating in CV competitions and reading research papers weekly.
 
-## 📫 Contact Me
-Feel free to reach out to me if you'd like to collaborate on a project or have any questions. You can contact me via email at aadhithyanpandian@gmail.com. I'm always open to interesting opportunities!
+---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/aadhi001/)
+## 💼 Previous Experience
+### Game Server Developer – Bragg Gaming Group (2023–2024)
+- Developed scalable game servers using Java & Python  
+- Built automation tools that improved developer efficiency by 20%
 
-Let's connect and build something amazing together!
+### Backend Developer – Monkeycap.com (2022–2023)
+- Integrated insurance vendors and developed CKYC workflows  
+- Contributed to microservices architecture with Java Play & MongoDB
+
+### Backend Intern – Rocketlane (2022)
+- Designed audit logs and bulk data APIs  
+- Gained hands-on experience with scalable backend systems using Java & Spring
+
+---
+
+## 🛠️ Project Themes You’ll Find Here
+- Classical Computer Vision with OpenCV  
+- Deep Learning with PyTorch (CNNs, Object Detection, Segmentation)  
+- Modern Vision Architectures (ViTs, DETR)  
+- Full-stack AI apps combining backend and ML
+
+---
+
+## 📫 Let’s Connect!
+Feel free to reach out if you'd like to collaborate or chat about CV, AI, or backend systems:
+- 📧 aadhithyanpandian@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aadhi001/)  
+
+Let’s build something amazing together 🚀
