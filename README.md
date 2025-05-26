@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer currently purs
 
 ## 🔧 Skills & Tools
 - **Languages**: Java, Python
-- - **Frameworks**: Pytorch
+- **Deep Learning Frameworks**: Pytorch
 - **Frameworks**: Spring Boot, Play Framework  
 - **Databases**: PostgreSQL, MongoDB, SQL  
 - **DevOps & Tools**: Docker, Git, REST APIs  
