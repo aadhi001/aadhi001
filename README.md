@@ -6,41 +6,34 @@ Welcome to my GitHub profile! I'm a passionate software developer currently purs
 ---
 
 ## 🔧 Skills & Tools
-- **Languages**: Java, Python  
-- **Frameworks**: Spring Boot, Play Framework, PyTorch, TensorFlow  
+- **Languages**: Java, Python
+- - **Frameworks**: Pytorch
+- **Frameworks**: Spring Boot, Play Framework  
 - **Databases**: PostgreSQL, MongoDB, SQL  
 - **DevOps & Tools**: Docker, Git, REST APIs  
-- **Core Concepts**: OOP, Microservices, Computer Vision, Neural Networks, Agile Development
+- **Core Concepts**: Computer Vision, Convolutional Neural Networks, Neural Networks
 
 ---
 
 ## 🚀 Current Focus
-- Building a **public GitHub roadmap** to master computer vision: from classical image processing to deep learning and modern transformers.
+- Building to master computer vision: from classical image processing to deep learning and modern transformers.
 - Developing portfolio projects that combine my backend experience with AI capabilities.
-- Participating in CV competitions and reading research papers weekly.
 
 ---
 
 ## 💼 Previous Experience
 ### Game Server Developer – Bragg Gaming Group (2023–2024)
 - Developed scalable game servers using Java & Python  
-- Built automation tools that improved developer efficiency by 20%
+- Built automation tools that improved developer efficiency
 
 ### Backend Developer – Monkeycap.com (2022–2023)
 - Integrated insurance vendors and developed CKYC workflows  
 - Contributed to microservices architecture with Java Play & MongoDB
 
 ### Backend Intern – Rocketlane (2022)
+- Designed features from scratch
 - Designed audit logs and bulk data APIs  
 - Gained hands-on experience with scalable backend systems using Java & Spring
-
----
-
-## 🛠️ Project Themes You’ll Find Here
-- Classical Computer Vision with OpenCV  
-- Deep Learning with PyTorch (CNNs, Object Detection, Segmentation)  
-- Modern Vision Architectures (ViTs, DETR)  
-- Full-stack AI apps combining backend and ML
 
 ---
 
