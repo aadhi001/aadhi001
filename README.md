@@ -1,5 +1,5 @@
 ![Welcome GIF](https://raw.githubusercontent.com/aadhi001/aadhi001/refs/heads/main/welcome.gif)
-# Hi there, I'm Aadhithyan Pandian! 👋  
+# Hi there, I'm Aadhi! 👋  
 #### Masters in Aritificial Intelligence | Computer Vision for Autonomous Driving | Previously Software Engineer
 
 Welcome to my GitHub profile! I am an experienced software engineer currently pursuing my M.Sc. in Artificial Intelligence at BTU Cottbus, Germany. I have a strong foundation in backend development using Java, Spring Boot, and Python and now I'm on a mission to **master computer vision** for autonomous driving.
