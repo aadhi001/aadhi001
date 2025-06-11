@@ -1,4 +1,4 @@
-![Welcome GIF]([welcome.gif))
+![Welcome GIF]([welcome.gif])
 # Hi there, I'm Aadhithyan Pandian! 👋  
 #### AI Student | Computer Vision for Autonomous Driving | Previously Software Engineer
 
