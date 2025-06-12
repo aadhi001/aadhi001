@@ -2,7 +2,7 @@
 # Hi there, I'm Aadhi! 👋  
 #### Masters in Aritificial Intelligence | Computer Vision for Autonomous Driving | Previously Software Engineer
 
-Welcome to my GitHub profile! I am an experienced software engineer currently pursuing my M.Sc. in Artificial Intelligence at BTU Cottbus, Germany. I have a strong foundation in backend development using Java, Spring Boot, and Python and now I'm on a mission to **master computer vision** for autonomous driving.
+Welcome to my GitHub profile! I am an experienced software engineer currently pursuing my M.Sc. in Artificial Intelligence at BTU Cottbus, Germany. I have a strong foundation in Software Engineering principles, especially backend development using Java, Spring Boot, and Python and now I'm on a mission to **master computer vision** for autonomous driving.
 
 ---
 
@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I am an experienced software engineer currently pu
 
 ---
 
-## 🚀 Current Focus
-- Building to master computer vision: from classical image processing to advanced deep learning techniques.
-- Developing portfolio projects that combine my backend experience with AI capabilities.
+## 🚀 Current Focus - Learning by Doing
+- Autonomous Driving: Mastering Deep Learning and getting first hand experience of using simulation engine like CARLA.
+- Developing portfolio projects that combine my fundamental software engineering skills with AI/ML capabilities.
 
 ---
 
