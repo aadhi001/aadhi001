@@ -36,6 +36,8 @@ Welcome to my GitHub profile! I am an experienced software engineer currently pu
 ## 🚀 Current Focus - Learning by Doing
 - Autonomous Driving: Mastering Deep Learning and getting first hand experience of using simulation engine like CARLA.
 - Developing portfolio projects that combine my fundamental software engineering skills with AI/ML capabilities.
+
+  
 ![SelfDriving](https://raw.githubusercontent.com/aadhi001/aadhi001/refs/heads/main/self_driving.gif)
 
 ---
